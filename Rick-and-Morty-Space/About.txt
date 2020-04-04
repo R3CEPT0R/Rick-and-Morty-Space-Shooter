@@ -1,0 +1,12 @@
+This game is inspired by the "Rick and Morty" series on adult swim. 
+
+Basically, you are given a specified time, counting down to 0. Within that time frame,
+you must accumulate 35 points by shooting the falling characters from the series, where each 
+character destroyed is worth one point. Note that characters spawn at random locations, to crank up
+the difficulty of the game
+
+To move, simply use the arrow keys (forward-up,backward-down, left-left_arrow, right-right_arrow). 
+To pause, press the spacebar, and press return to resume. 
+To shoot, simply click on the screen. The game ends when all characters disappear from the screen or when time runs out.
+You also get a power up for every 5 characters you destroy, and this lasts for about 9 seconds
+
