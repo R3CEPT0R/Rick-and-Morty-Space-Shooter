@@ -1,8 +1,8 @@
 ; #########################################################################
 ;
-;   game.asm - Assembly file for EECS205 Assignment 4/5
-;   AUTHOR: LENIN ESTRADA
-;   NetID: lae4127
+;   Rick and Morty Space Shooting Game
+;  
+;   
 ;
 ; #########################################################################
 
