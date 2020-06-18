@@ -1,5 +1,4 @@
 # Rick-and-Morty-Space-Shooter
-![](https://imgix.ranker.com/collection_img/1/1243/original/rick-and-morty-u6?w=751&h=271&fm=pjpg&fit=crop&q=50)
 ![](https://i.ibb.co/sP1SXCz/rickandmorty.png)
 Built using IA-32 assembly, this game is inspired by the "Rick and Morty" series on adult swim. To use, simply download and run "game.exe" file. 
 
